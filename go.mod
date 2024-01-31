@@ -1,4 +1,4 @@
-module github.com/franciscoescher/goopenai/v3
+module github.com/PavelAravin/goVseGpt/v3
 
 go 1.21
 
